@@ -87,10 +87,30 @@ The dataset can be loaded in any JSON-compatible environment.
 ```python
 import json
 
-with open("dataset/example.json", "r", encoding="utf-8") as f:
+# Path to your standardized JSON file
+file_path = "dataset/anima_e_corpus.json"
+
+with open(file_path, "r", encoding="utf-8") as f:
     data = json.load(f)
 
-print(data["metadata"]["titolo"])
+# 1. Access Global Metadata
+# Title and thematic dispute are stored in the top-level metadata object [cite: 58, 59]
+print(f"Debate Title: {data['metadata']['title']}")
+print(f"Core Theme: {data['metadata']['core_theme']}")
+print("-" * 40)
+
+# 2. Iterate through Transcription Units (Stanzas)
+# The dataset follows a hierarchical structure to preserve sequential traceability [cite: 55, 61]
+for stanza in data["transcription"]:
+    stanza_id = stanza["id"]
+    poet = stanza["poet"]
+    execution_time = stanza["time"]
+    # Individual lines are stored as an ordered list of verse strings [cite: 61]
+    lyrics = "\n".join(stanza["verse"]) 
+    
+    print(f"Stanza #{stanza_id} | Performer: {poet} | Duration: {execution_time}")
+    print(lyrics)
+    print("." * 20)
 ```
 
 ---
