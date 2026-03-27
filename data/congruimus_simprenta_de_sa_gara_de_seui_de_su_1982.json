@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "titolo": "Congruimus s’imprenta de sa gara de Seui de su 1982",
+    "fonte": "https://www.lacanas.it/novas/2014/congruimus-simprenta-de-sa-gara-de-seui-de-su-1982/",
+    "intro_tema": "Congruimus s’imprenta de sa gara de Seui de su 1982 Congruimus inoghe s’ammentu de sa gara a sa cale an dadu vida subra su palcu de Seui in su 1982 pro Nostra Segnora de su monte Carmelu a meidade de trìulas sos cantadores Frantziscu Mura e Marieddu Masala. Si tratat de su segundu e ùltimu tema: sos duos improvisadores mannos faghen unu jogu poèticu fitianu in sas garas: unu leat sa parte de su mandrone, s’àteru interpretat su trabagliadore. Sun chimbanta otadas de prima calidade, comente semper s’est costumadu cando in su palcu cantaiat custa joba de virtude manna. E in sos arrejonos insoro, in seriedade ma finas in sos chi daian logu a sa brulla, b’at semper ite meledare. Cando an cantadu in Seui, Frantziscu Mura teniat 49 annos e Marieddu Masala nde deviat cumprire 47.",
+    "tema_centrale":"Contrapposizione tra lavoro e ozio: apologia del lavoro come dignità, progresso e sostentamento (Marieddu Masala = trabagliadore) contro difesa ironica e provocatoria dell’ozio/mandronia come stile di vita opportunista e individualista (Frantziscu Mura = mandrone)"
+
+  },
+  "trascrizione": [
+    {
+      "id": 1,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "1’15”",
+      "versi": [
+        "Vendeta cun perdonu ’e custa vida",
+        "fit s’argumentu ’e sa prima cantada.",
+        "Ma si ch’est cussa parte esaurida",
+        "antzis tropu a longu si est durada:",
+        "ma da chi como cussa est isparida",
+        "un’ateruna parte est arrivada.",
+        "E annùntzio in sa mia missione",
+        "chi in su segundu tema so mandrone."
+      ]
+    },
+    {
+      "id": 2,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "44”",
+      "versi": [
+        "S’atentzione e sa calma in comuna",
+        "fina a-i como no nos est mancada",
+        "ca agiumai che semus in sa una",
+        "però ancora no est ora passada.",
+        "E ringràtzio tantu sa fortuna",
+        "chi la presentan che dea bendada",
+        "ca m’est bennìda bastante in favore",
+        "déndemi in parte su trabagliadore."
+      ]
+    },
+    {
+      "id": 3,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "1’08”",
+      "versi": [
+        "Tue in mesu de tulas e de raglias",
+        "ses, Marieddu, e bistas sempre gai.",
+        "Però tropu sa vida ti bersaglias",
+        "ne godidu riposu ti as assai.",
+        "Deo chi tribagliadu no apo mai",
+        "mi naran totu: prite no tribaglias?",
+        "In criticas malignas mi collocan",
+        "ma non tribaglio mancari mi ’ocan."
+      ]
+    },
+    {
+      "id": 4,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "43”",
+      "versi": [
+        "Tue ’ides su trabagliu in manu anzena",
+        "e naras chi ti faghet ispaventu",
+        "però ammentadinde a sa carena",
+        "chi servit finas de allenamentu.",
+        "A parte chi procurat s’alimentu",
+        "ca as dae issu sa ’entre piena",
+        "est su trabagliu su chi nos sustenit",
+        "ca dae chelu sa manna non benit."
+      ]
+    },
+    {
+      "id": 5,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "57”",
+      "versi": [
+        "Cun su tribagliu ti mujas s’ischina",
+        "e cando mai est chi non l’as cumpresa.",
+        "Deo uso diversa disciplina,",
+        "sa vida mi est ispassu e m’est bellesa:",
+        "chie tribagliat at una sardina",
+        "e su mandrone nd’at sardina e mesa.",
+        "Ammito su dovere unu chi faghet",
+        "ma a mie a tribagliare no piaghet."
+      ]
+    },
+    {
+      "id": 6,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "42”",
+      "versi": [
+        "Trabaglio deo e tue nudda faghe",
+        "dadu chi t’est tocadu su mandrone.",
+        "Làssal’istare a mie su marrone",
+        "còlcadi tue in suta ’e s’umbraghe.",
+        "Ses ruju in cara che su piberone:",
+        "robbustu, pares, Mura, unu nuraghe",
+        "e che unu signore bene ’estìdu",
+        "ma nara dae chie ses nutrìdu."
+      ]
+    },
+    {
+      "id": 7,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "1’04”",
+      "versi": [
+        "Tue as a dare sa provista manna",
+        "a da chi as tribagliadu su terrinu.",
+        "Deo no b’ando a s’alzola vicinu,",
+        "su tribagliu mi tremet che-i sa canna:",
+        "tue jughes s’ischina a un’unchinu,",
+        "deo invece m’ingrutzio in sa janna.",
+        "A da chi passo màssimu in dognora",
+        "b’intro una ’olta e poi nd’’esso a fora."
+      ]
+    },
+    {
+      "id": 8,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "41”",
+      "versi": [
+        "Sa mandronia est sorre ’e sa fiaca",
+        "tantu si ti lu naro no t’ofendes.",
+        "Tue cando tribaglias nudda rendes",
+        "e sa carena tua est sempre istraca.",
+        "Ma cando no trabaglias ite ispendes,",
+        "comente t’as pienu sa busciaca?",
+        "Ca su ’inari cheret sueradu",
+        "no s’agatat in terra fuliadu."
+      ]
+    },
+    {
+      "id": 9,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "51”",
+      "versi": [
+        "Comente t’ispiegas rie-rie",
+        "immensu piaghere mi ses dende",
+        "ma, caru Marieddu, isculta a mie",
+        "e si m’as iscultadu mi cumprende:",
+        "de comente sa vida so passende",
+        "non so obbligadu a lu narrer a tie.",
+        "Ca deo conto s’ùnicu sugetu",
+        "e mantenzo inserradu su segretu."
+      ]
+    },
+    {
+      "id": 10,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "41”",
+      "versi": [
+        "Deo a su trabagliu so adatu",
+        "e su sole su cùcuru mi at cotu",
+        "prite apo a fadigare fatu votu,",
+        "so pius resistente e corriatu:",
+        "ma tue su trabagliu iscansas totu,",
+        "infati bentri-mannu ti ses fatu",
+        "e ti ses ingrassadu che mannale:",
+        "t’an a bochire sa die ’e Nadale."
+      ]
+    },
+    {
+      "id": 11,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "45”",
+      "versi": [
+        "A mi lassas istare s’abbolotu",
+        "chi sa idea mia est sempre cudda.",
+        "No mi mancat padedda e ne turudda,",
+        "b’at in sa cascia mia pane cotu:",
+        "so tota vida sena fagher nudda",
+        "e puru so campende gai etotu.",
+        "Poi t’ammenta chi sa pensione",
+        "prima ’e totu la dan a su mandrone."
+      ]
+    },
+    {
+      "id": 12,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "37”",
+      "versi": [
+        "Como as nadu sa santa veridade,",
+        "caligunu sas manos t’at tzocadu.",
+        "Si comente ’e s’Itàlia in s’istadu",
+        "non mancat mancu partzialidade",
+        "però tue non ses pensionadu",
+        "pruite ancora non ses a s’edade.",
+        "E da chi ’e su trabagliu t’impauras",
+        "de duas una, o pedis o furas."
+      ]
+    },
+    {
+      "id": 13,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "51”",
+      "versi": [
+        "No nde fato de cussas atrividas,",
+        "sas cosas tuas sempre rispetadas",
+        "apo e po cussu, Mariu, ti fidas:",
+        "sas manos mias non las an furadas.",
+        "Deo ap’a tenner pagu sas bintradas",
+        "però sun pius pagas sas bessidas.",
+        "E in su presente istadu chi m’agato",
+        "mancu denùntzias de réditos fato."
+      ]
+    },
+    {
+      "id": 14,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "40”",
+      "versi": [
+        "Cando mai sas fortzas no impreas?",
+        "Ajò, trabaglia, progredi e mezora",
+        "ca in subra sa terra a punta fora",
+        "da su trabagliu ch’at òperas reas:",
+        "sas chi sun rutas no che sunu ancora",
+        "ma unu bene che nd’’ides intreas.",
+        "No mi las podet leare nisciunu",
+        "e sas operas tuas cale sunu?"
+      ]
+    },
+    {
+      "id": 15,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "1’03”",
+      "versi": [
+        "Inùtile est chi nelzas e mi dias",
+        "milli cunsizos po s’ocasione.",
+        "Sun delicadas custas manos mias",
+        "paren manos de unu signorone:",
+        "invece tue pro chi sempre sias",
+        "a facia a terra in dogni istajone",
+        "giughes sas manos pesantes, gallosas",
+        "a fortza ’e manizare milli cosas."
+      ]
+    },
+    {
+      "id": 16,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "42”",
+      "versi": [
+        "Sos chi sun che a tie abbituados",
+        "a s’òtziu sun fortes e sun bellos.",
+        "Ma sos capolavoros che gioiellos",
+        "da su trabagliu los ana innaltzados:",
+        "e no as bidu sos disocupados,",
+        "cussos bessin in giru cun cartellos.",
+        "Creo ch’in su trabagliu totu isperen",
+        "e inube bi mancat bi lu cheren."
+      ]
+    },
+    {
+      "id": 17,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "53”",
+      "versi": [
+        "A tie t’at a parrer tzertu istranu",
+        "si naro chi no conto che-i su zero.",
+        "S’as osservadu su napolitanu",
+        "gai che issu mi che cunsidero:",
+        "no at nudda in busciaca su manzanu",
+        "e pienas las giughet a su sero.",
+        "Manc’unu passu chi ponet isbagliat",
+        "e si campat mancari no tribagliat."
+      ]
+    },
+    {
+      "id": 18,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "40”",
+      "versi": [
+        "Tue joghende ses s’ùltima calta",
+        "ca a su mandrone gai li capitat.",
+        "E si morzerat faghet pagu falta",
+        "tantu no s’ischit nemmancu ue abbitat.",
+        "Deo invece camino a fronte alta",
+        "ca su trabagliu est su chi nobbilitat.",
+        "Ma tue ses vivinde dae s’ótziu:",
+        "ite che faghes in mesu su sótziu?"
+      ]
+    },
+    {
+      "id": 19,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "55”",
+      "versi": [
+        "O, Marieddu, gentile-gentile",
+        "ti l’ispiego e nisciunu si ofendet",
+        "ca su chi naro deo lu cumprendet",
+        "dogni ascultadore in tonu umìle.",
+        "No l’ischis su tribagliu chi ti rendet",
+        "comente-i sa béstia simìle?",
+        "A t’imbetzare sa carena cuitat",
+        "e poi naras chi ti nobbilitat."
+      ]
+    },
+    {
+      "id": 20,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "41”",
+      "versi": [
+        "Materiales da sas minieras",
+        "s’istraet e s’ispacat rocas duras.",
+        "Si si faghen sas undas presoneras",
+        "tando s’irrigan tantas pianuras",
+        "e sas provistas tenimos siguras",
+        "ma tue si no trabaglias it’isperas?",
+        "Chi ses naschidu e de sa terra susu",
+        "mi paret chi che sias in piusu."
+      ]
+    },
+    {
+      "id": 21,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "49”",
+      "versi": [
+        "Si ti lu torro a narrer mi perdona",
+        "ma custa est sa prus bella ocasione.",
+        "No est solu una mia impressione",
+        "ca che deo bi nd’at in dogni zona:",
+        "e pensa chi sa vida pius bona",
+        "in sa terra la faghet su mandrone.",
+        "Po chi non sian de suore infustos",
+        "an piagheres e àteros gustos."
+      ]
+    },
+    {
+      "id": 22,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "41”",
+      "versi": [
+        "Sos chi de trabagliare no s’istracan",
+        "cussos po produire s’interessan:",
+        "ranos interran e ispigas messan",
+        "poi de nou sos ranos insacan,",
+        "sas rocas perra-perra las ispacan",
+        "sos pupujones invece los pressan.",
+        "Cun su trabagliu si no faghes coia",
+        "tue, Mura, as a morrer da sa noia."
+      ]
+    },
+    {
+      "id": 23,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "51”",
+      "versi": [
+        "Non so mancu faladu dae sa nue,",
+        "ch’epas bell’e cumpresu penso e creo.",
+        "Deo tenzo unu bellu galateo",
+        "chi m’apo fatu amigos in totue.",
+        "Si sas ispigas nde las messas tue",
+        "no b’at bisonzu ’e las messare deo.",
+        "Poi fatas a pane a sos concluos",
+        "podimos mandigare totosduos."
+      ]
+    },
+    {
+      "id": 24,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "39”",
+      "versi": [
+        "Cussos invitos gai los ap’eo",
+        "e no deves repiter s’uguale.",
+        "A da chi tenes diversu ideale",
+        "deo trabaglio pro godire deo:",
+        "naras chi tenes finas galateo",
+        "però no podes tenner capitale.",
+        "Pro iscaldire a su sole ti ’oga",
+        "ca tantu as totu a coddu che-i sa joga."
+      ]
+    },
+    {
+      "id": 25,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "55”",
+      "versi": [
+        "Mi’ chi in sa limba mia no bi at tudda",
+        "ca da lontanas dies mi as connotu",
+        "e-i s’intentzione est sempre cudda,",
+        "cun su tribagliu non fato abbolotu:",
+        "tue tribaglias e no godis nudda",
+        "invece deo mi godo ’e totu.",
+        "Po cantu ch’isto in s’umana esistèntzia",
+        "abbàida ite ratza ‘e diferèntzia."
+      ]
+    },
+    {
+      "id": 26,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "39”",
+      "versi": [
+        "Chie trabagliat suerat in fronte,",
+        "cussu ja faghet a sa moda mia.",
+        "Subra su riu innaltzat unu ponte",
+        "subra su ponte una ferrovia:",
+        "da parte in parte istampat su monte,",
+        "suta bi colat una galleria.",
+        "Totu custu est benèssere e progressu",
+        "ma no lu faghet chie istat arressu."
+      ]
+    },
+    {
+      "id": 27,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "54”",
+      "versi": [
+        "Tue mi nas chi as sempre fortza e briu,",
+        "tribaglia cantu tenes vigoria",
+        "e tantu chi ti bastat s’energia",
+        "ma a mie su tribagliu est disafiu:",
+        "est pro cussu chi da sa fronte mia",
+        "suore no nde falat unu ’utiu.",
+        "Ca narat unu diciu de unu tale",
+        "chi s’umidade faghet tropu male."
+      ]
+    },
+    {
+      "id": 28,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "37”",
+      "versi": [
+        "Tue a trabagliare ses restiu",
+        "ca cheres viver che unu signore.",
+        "Inube falat de suore ’utiu",
+        "bi naschet una tega de laore",
+        "e ube bi nde curret unu riu",
+        "b’isbociat una rosa, unu fiore.",
+        "S’umbra a tie ti podet ristorare",
+        "però no ti nde dat a mandigare."
+      ]
+    },
+    {
+      "id": 29,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "47”",
+      "versi": [
+        "Ma fàgheti s’idea persuasa",
+        "e chi sia cumpresu ’e custu creo:",
+        "a chie est tribagliende non l’afeo,",
+        "parto sempre da cussu puntu ’e basa.",
+        "E a-d-ite oe mi lu fato deo",
+        "cuddu chi podes fagher tue crasa?",
+        "Ca narat unu diciu pius famosu:",
+        "no faghet mai male su riposu."
+      ]
+    },
+    {
+      "id": 30,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "37”",
+      "versi": [
+        "Naras chi su trabagliu est cosa mala",
+        "e gai tue nde faghes a mancu.",
+        "Ma pensa, cun su picu e cun sa pala",
+        "ch’an istampadu su Monte Biancu:",
+        "an cumintzadu da custu fiancu",
+        "e bessidos che sun a s’aterala.",
+        "An collegadu duas natziones",
+        "però no l’ana fatu sos mandrones."
+      ]
+    },
+    {
+      "id": 31,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "47”",
+      "versi": [
+        "Cun su tribagliu ti ses postu a notu",
+        "in mesu de sos èsseres mundanos.",
+        "Ja bi nd’at tribagliadu unu fiotu",
+        "in montagnas, costeras e pianos:",
+        "po chi no b’epa deo postu manos",
+        "su monte l’an bucadu gai etotu.",
+        "Masala, no nde sias incantadu:",
+        "bi passo cant’e chie l’at bucadu."
+      ]
+    },
+    {
+      "id": 32,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "39”",
+      "versi": [
+        "Cantas cosas mi faghes a ischire",
+        "como chi semus a fiancu ’e pare.",
+        "Però si ses mandrone est a patire",
+        "non tenes de bundàntzia unu mare:",
+        "e a ube decidis de partire",
+        "si dinari no tenes a pagare?",
+        "Chi t’istas sempre sas ungias pulende",
+        "ma dogni tantu ti bido caschende."
+      ]
+    },
+    {
+      "id": 33,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "52”",
+      "versi": [
+        "No est comente naras in cust’ora",
+        "po chi no epa mai trabagliadu.",
+        "Deo apo, Marieddu, viagiadu",
+        "e so propensu ’e viagiare ancora:",
+        "in bidda mia e in biddas de fora",
+        "so finas da dognunu calculadu.",
+        "E imbìdias po cussu no nde fetas",
+        "ca apo che tantos tocadu sas metas."
+      ]
+    },
+    {
+      "id": 34,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "38”",
+      "versi": [
+        "S’esseras suferente o dilgrasciadu",
+        "tando ti dia perdonare creo.",
+        "Invece tue ses malintragnadu",
+        "e peruna cumpresa no nde leo:",
+        "ca mi paret chi sias avisciadu",
+        "cheres godire ’e su chi fato deo.",
+        "Ma ses unu mandrone parassita",
+        "chi no merìtas de pane una fita."
+      ]
+    },
+    {
+      "id": 35,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "55”",
+      "versi": [
+        "Deo non conto a nisciunu segundu",
+        "po chi no sia su primu arrividu.",
+        "Tue as a esser su primu partidu",
+        "ma cunsiderendebbei a fundu a fundu",
+        "chi dae cando est criadu su mundu",
+        "mai manc’unu ’e fàmene est peridu.",
+        "Antzis ischis, o Marieddu, e cre’:",
+        "sa pius parte manna lu est pro me."
+      ]
+    },
+    {
+      "id": 36,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "39”",
+      "versi": [
+        "S’onnipotente veru Deus santu",
+        "cando Adamu in su pecadu grae",
+        "est rutu, li at nadu: a fora dae",
+        "dae custu giardinu de incantu",
+        "e sémina in sa terra trigu e fae",
+        "pro procurare de pane unu cantu.",
+        "Però tue a su Deu Onnipotente",
+        "a cantu paret no l’as postu in mente."
+      ]
+    },
+    {
+      "id": 37,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "45”",
+      "versi": [
+        "Tue ricurres a Deus Divinu",
+        "cun su sólitu sanu galateo",
+        "ma chi a mie m’imbrogliet no bi creo",
+        "ne mi ch’essit da ’uca intro sinu:",
+        "antzis, o Marieddu, in su giardinu",
+        "sas menzus frutas nde las boddo deo.",
+        "E de sas frutas ch’at criadu Deus",
+        "sas chi ti nd’’oddis tue sun sas peus."
+      ]
+    },
+    {
+      "id": 38,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "38”",
+      "versi": [
+        "Deo so iscultende a su chi cantas,",
+        "indiferente a su trabagliu restas.",
+        "Deo a sas cosas bonas totucantas",
+        "so ’idinde ch’atentzione prestas:",
+        "ma tue sas piantas no piantas",
+        "e cando no nd’allevas no nd’innestas.",
+        "No as diritu a mandigare fruta,",
+        "tue cheres lassadu a buca asciuta."
+      ]
+    },
+    {
+      "id": 39,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "54”",
+      "versi": [
+        "Mancu cun cussa m’agato iscunfitu",
+        "si nde ses, Marieddu, a connoschèntzia.",
+        "De mi fagher trabagliare ses apitu",
+        "ma si ti nego as a tenner passèntzia:",
+        "no mi nde l’apo a leare po diritu",
+        "e ne mi tuco cun sa prepotèntzia.",
+        "Tantu in su cursu ’e sa vida lezera",
+        "de nde l’’oddire agato sa manera."
+      ]
+    },
+    {
+      "id": 40,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "38”",
+      "versi": [
+        "Però si ses mandrone ti aviles",
+        "ca pares un’omìne chi no bales.",
+        "Chie at innaltzadu catedrales",
+        "e in subra de issas campaniles",
+        "de varios modellos e istiles:",
+        "bi nd’at diversos, bi nd’at uguales.",
+        "Istatuas de linna, gesso e oro",
+        "faghen cun su trabagliu e mi nde onoro."
+      ]
+    },
+    {
+      "id": 41,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "47”",
+      "versi": [
+        "De totu custu a-d-ite ti nde antes",
+        "po chi ti rendas meritos e grados,",
+        "ti devo narrer in custos istantes",
+        "chi oe sun sos tempos cambiados:",
+        "puite nd’amos bidu ’e tribagliantes",
+        "totacanta sa vida ispiantados.",
+        "E poi puru amos bidu mandrones",
+        "a giugher in busciaca milliones."
+      ]
+    },
+    {
+      "id": 42,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "38”",
+      "versi": [
+        "Àteras menzus cosas mi prepara",
+        "pro chi sias allegru e rie-rie.",
+        "Cando mancat inoghe a inie",
+        "a trabagliare bi andan a gara",
+        "e como dogni cosa costat cara,",
+        "dinari nde bisonzat cada die.",
+        "Si naras chi no t’est mai mancadu",
+        "nàrami da inube l’as bogadu."
+      ]
+    },
+    {
+      "id": 43,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "54”",
+      "versi": [
+        "Mi’ chi ti l’apo nadu dae insara",
+        "e bastaiat un’otada fata.",
+        "Tue pius a prestu ti prepara",
+        "a cumprender sa mia otada grata:",
+        "no mi nd’importat si sa cosa est cara",
+        "e pius pagu a da chi est barata.",
+        "Tantu chi est mandrone che la tostat",
+        "no l’interessat mai ’e su chi costat."
+      ]
+    },
+    {
+      "id": 44,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "37”",
+      "versi": [
+        "Ma sas òperas sun totu sas mias,",
+        "lu poto tenner a onore e bantos.",
+        "In sa campagna cantas mezorias",
+        "cun varios modernos impiantos:",
+        "muros e putos e iscuderias",
+        "da sas pedras chi apo fatu a cantos.",
+        "Ma tue no as mai progredidu:",
+        "as a morrer comente ses naschidu."
+      ]
+    },
+    {
+      "id": 45,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "50”",
+      "versi": [
+        "Ma tue sighi a versare suore",
+        "comente finas oe as sueradu.",
+        "Ma ti ses calchi ’olta umiliadu",
+        "a calicunu a li narrer signore,",
+        "invece deo no apo disturbadu",
+        "intro s’ufisciu su collocadore.",
+        "Ca si comente so nàschidu furbu",
+        "e mai l’apo a dare unu disturbu."
+      ]
+    },
+    {
+      "id": 46,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "38”",
+      "versi": [
+        "Ajò, ch’’essimos a logu ’e fora",
+        "s’est chi mi pones fatu tue puru.",
+        "In Isvizera, Germania e Belgiu ancora",
+        "e de custu, Frantziscu, ista siguru:",
+        "si biden unu passizende ognora",
+        "ja che lu ponen in logu ’e iscuru.",
+        "Cussa lege mancari no che siat",
+        "in Italia puru che cheriat."
+      ]
+    },
+    {
+      "id": 47,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "54”",
+      "versi": [
+        "Ma no atzeto cantu nadu as tue",
+        "ne so propensu a girare s’ischina.",
+        "Tantu falat sa manna dae sa nue",
+        "lu narat un’istoria divina:",
+        "non so in chilca ’e partire a igue",
+        "si naras chi b’at tropu disciplina.",
+        "Inoghe no ch’at pistola e ne istillu",
+        "e poto passizare trancuillu."
+      ]
+    },
+    {
+      "id": 48,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "38”",
+      "versi": [
+        "Su trabagliu chi tenes est pesante,",
+        "est unu benefìtziu e no dannu:",
+        "gai Seui una ’olta s’annu",
+        "faghet sa festa de sos emigrantes",
+        "e-i s’insoro contribbutu est mannu:",
+        "cussos, Frantziscu, sun sos trabagliantes",
+        "fora e in sas anzenas natziones",
+        "ma non faghen sa festa ’e sos mandrones."
+      ]
+    },
+    {
+      "id": 49,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "48”",
+      "versi": [
+        "Bastat, ponimos fine a s’argumentu:",
+        "est s’ùltima chi fato rie-rie.",
+        "Tue de festa tenes una die,",
+        "de parte tua so finas cuntentu",
+        "ma chi tribaglian coment’e a tie",
+        "sun in sa terra su deghe po chentu.",
+        "E si faghimos sas aditziones",
+        "su noranta po chentu sun mandrones."
+      ]
+    },
+    {
+      "id": 50,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "37”",
+      "versi": [
+        "Cand’est finidu su tema sigundu",
+        "de su trabagliu nisciunu si joghet:",
+        "chi faghet dannu puru e chi noghet",
+        "lu naran sos mandrones de su mundu.",
+        "Non naro chi sas rocas dae fundu",
+        "totucantas intreas si nde ’oghen.",
+        "Però si devet fagher calchi cosa",
+        "ca non rendet sa zente inoperosa."
+      ]
+    }
+  ]
+}

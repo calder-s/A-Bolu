@@ -1,0 +1,856 @@
+{
+  "metadata": {
+    "titolo": "Mura, Piras e Masala cantan in Gergei poesia, pintura e mùsica",
+    "fonte": "https://www.lacanas.it/novas/2012/mura-piras-e-masala-cantan-in-gergei-poesia-pintura-e-musica/",
+    "intro_tema": "Mura, Piras e Masala cantan in Gergei poesia, pintura e mùsica Congruimus s’imprenta de sos temas de sa gara de su 1969 in Gergei, inube Frantziscu Mura, Remundu Piras e Marieddu Masala an dadu vida a una gara de ispantu pro sa festa de Nostra Segnora de Mesaustu. Custu est su segundu tema: sa poesia (Mura), sa mùsica (Piras) e sa pintura (Masala). Duinas e modas bos las amus a presentare in  Làcanas de su mese de Nadale. Cando an cantadu in Gergei Frantziscu Mura teniat 36 annos cumpridos, Remundu Piras nde deviat lomper 64 e Marieddu Masala 32.",
+    "tema_centrale": "Disputa sulle Arti: Poesia (Mura) vs Musica (Piras) vs Pittura (Masala)"
+  },
+  "trascrizione": [
+    {
+      "id": 1,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "56”",
+      "versi": [
+        "De fronte a unu pópulu devotu",
+        "sighimos a cantare sas novellas.",
+        "Como una ’e sas artes pius bellas",
+        "chi ap’in sorte narrer devo a totu:",
+        "tras sas prus bellas chi amos connotu",
+        "chi s’est distinta dae sas gemellas.",
+        "E collocada s’est prus in altura:",
+        "pruite m’es tocada sa pitura"
+      ]
+    },
+    {
+      "id": 2,
+      "poeta": "Piras",
+      "metrica": "Otada",
+      "tempo": "55”",
+      "versi": [
+        "Cheret narrer chi tue ses pintore,",
+        "ti rispeto si ses pintore ’onu.",
+        "Tue ses su mastru ‘e su colore",
+        "ca Deus ti l’at dadu cussu donu.",
+        "Deo apo una parte pius minore",
+        "proite so s’intèrprete ’e su sonu.",
+        "In me forma e colore no bi nd’ada",
+        "puite m’est sa mùsica tocada."
+      ]
+    },
+    {
+      "id": 3,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "59”",
+      "versi": [
+        "Est sa dea bendada sa chi donat",
+        "sa sorte a chie devet a modellu.",
+        "Totas tres in su própiu cancellu",
+        "semus passados, no m'impressionat.",
+        "A Marieddu an dadu su pinzellu,",
+        "Remundu s'arpa e-i sa lira sonat.",
+        "Diversa invece est custa parte mia",
+        "prite tocada m'est sa poesia."
+      ]
+    },
+    {
+      "id": 4,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "45”",
+      "versi": [
+        "Ma de dipingher si apo s’impreu",
+        "miro sa tinta cun sa tela adata.",
+        "Tota sa cosa ch’at criadu Deu",
+        "poto dipingher comente l’at fata.",
+        "E como b’amos sa pitura astrata:",
+        "cussa mi l’apo fata a contu meu",
+        "chi da su donu chi tenzo derivat",
+        "e perunu mortale no b’arrivat."
+      ]
+    },
+    {
+      "id": 5,
+      "poeta": "Piras",
+      "metrica": "Otada",
+      "tempo": "56”",
+      "versi": [
+        "(Ma) s’ómine da chi Deu l’at criadu",
+        "de s’abba intesu at sa cantilena",
+        "de mare calmu o abbulotadu,",
+        "su càntigu gentile ’e sa sirena.",
+        "Tando da terra nde segat un”ena,",
+        "l’isperrat e a sonare s’est proadu",
+        "sa mùsica che nobbile dultzura",
+        "ca bi l’at imparadu sa natura."
+      ]
+    },
+    {
+      "id": 5,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "55”",
+      "versi": [
+        "Però diversu est custu donu meu:",
+        "penso ch’at aer meritu e onores.",
+        "Est distimonzu s’universu intreu,",
+        "l’an a ischire mannos e minores:",
+        "cand’est naschidu su fizu ’e Deu",
+        "l’an cantadu in sa zona sos pastores.",
+        "Cantan cand’est naschidu su Messia:",
+        "e fit sa pius bella poesia."
+      ]
+    },
+    {
+      "id": 7,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "43”",
+      "versi": [
+        "Sa poesia est meda distinta,",
+        "la connoschimos dae calchi ’olta,",
+        "però un’ópera de colore est cinta",
+        "mancari palzat isbagliada e tolta.",
+        "Presentat una màchia ’e tinta",
+        "e cussa est una natura molta.",
+        "Chi a s’altesa siedas no creo",
+        "ca la poto cumprender solu deo."
+      ]
+    },
+    {
+      "id": 8,
+      "poeta": "Piras",
+      "metrica": "Otada",
+      "tempo": "56”",
+      "versi": [
+        "Mi naras chi cand”enit su Messia",
+        "cantan in poesia a allegra foghe.",
+        "Ma mancu poeta est s’Ave Maria",
+        "e lu poto giurare deo inoghe.",
+        "Ammenta ch’at cantadu sa ninnia",
+        "ma nos dat una mùsica sa ‘oghe.",
+        "Sa ’oghe est una mùsica gentile",
+        "in brasciolu, in domo o in foghile."
+      ]
+    },
+    {
+      "id": 9,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "58”",
+      "versi": [
+        "Eo no nde cheria ’ider imbaru",
+        "ca cantu est sa poética fiama,",
+        "Remundu, a nd’agatare est casu raru",
+        "e de la tenner sun totus in brama:",
+        "li narat: fizu meu caru-caru,",
+        "tue ti dormi in sos grembos de mama.",
+        "A una criatura chi est novella",
+        "cuss’est sa poesia pius bella."
+      ]
+    },
+    {
+      "id": 9,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "43”",
+      "versi": [
+        "Però cuddos chi sun pius famados",
+        "dipinghen sa bataglia in iscena.",
+        "Bides imbenujada a Madalena",
+        "e pianghende a pilos calados,",
+        "poi a Cristos in s’Ùltima Chena",
+        "in mesu sos Apóstulos fidados",
+        "finas a oe e séculos pius a taldu",
+        "e deves totu cussu a Leonaldu."
+      ]
+    },
+    {
+      "id": 10,
+      "poeta": "Piras",
+      "metrica": "Otada",
+      "tempo": "55”",
+      "versi": [
+        "(Ma) Cristos bi fiat chena lu pintare:",
+        "no b’at pitura ne b’at poesia.",
+        "(Ma) Una missa la naran in s’altare",
+        "e l’acumpagnan cun sa melodia.",
+        "Saùlle tenet una maladia,",
+        "sonat Dàvide s’arpa a lu carmare.",
+        "Ed eco chi sa mùsica est divina:",
+        "oltres che piaghere, est meighina."
+      ]
+    },
+    {
+      "id": 12,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "57”",
+      "versi": [
+        "Sa mùsica no contat cosighedda",
+        "prite tocat su coro s’istrumentu.",
+        "Tue de sos cuadros mi faedda",
+        "tantu ja nd’as a tenner pius de chentu.",
+        "Sa nueresa Gràtzia Deledda",
+        "at iscritu sas “Cannas a su ‘Entu”",
+        "e nd’at criadu unu romanzu bellu",
+        "sena b’aer ne sonu ne pinzellu."
+      ]
+    },
+    {
+      "id": 13,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "43”",
+      "versi": [
+        "Pro sonare un’arpa e una trumba",
+        "oe nos podet fagher pagu ispantu.",
+        "Ma sos estintos chi as caros tantu",
+        "sun in cuadru e che los as in tumba.",
+        "Dipinta est in s’altare sa columba",
+        "e cheret narrer s’Ispìridu Santu:",
+        "e cuss’est su pinzellu ch’in sas palas,",
+        "l’as postu sas piumas cun sas alas."
+      ]
+    },
+    {
+      "id": 14,
+      "poeta": "Piras",
+      "metrica": "Otada",
+      "tempo": "58”",
+      "versi": [
+        "Però s’a ballu sonan una trumba",
+        "sos sonos in orija si che catzan.",
+        "Tando si abbratzan columbu e columba:",
+        "andan, benin,si rilassan, s’istrapatzan.",
+        "Andan e benin a s’arrumba-arrumba,",
+        "sena ’ilgonza peruna s’abbratzan.",
+        "Sun imbreagos da sos sonos fissos:",
+        "comente sono deo moven issos."
+      ]
+    },
+    {
+      "id": 15,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "1’05”",
+      "versi": [
+        "Remundu, su ch’as nadu est cosa giusta,",
+        "non ti lu nego e antzis cunsidèra",
+        "chi sa rejone ti so dende est custa",
+        "ma fàghemi cumprender sa manera:",
+        "tue a s’isposa faghes sa litèra",
+        "poi bi chi l’inserras in sa busta.",
+        "L’iscries una bella poesia",
+        "nende: ti chelzo bene, isposa mia."
+      ]
+    },
+    {
+      "id": 16,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "41”",
+      "versi": [
+        "Mirade su ch’at fatu su pinzellu",
+        "e bos paret un’ópera divina",
+        "ca si b’est impignadu Rafaellu",
+        "pro dipingher su visu ‘e Fornarina",
+        "da ube at fatu unu cuadru bellu",
+        "ch’at arrichidu tota sa Sistina.",
+        "No lu supèrat perunu poete",
+        "e no est a sonare un’organete."
+      ]
+    },
+    {
+      "id": 17,
+      "poeta": "Piras",
+      "metrica": "Otada",
+      "tempo": "50”",
+      "versi": [
+        "Ma po iscrier a s’innamorada",
+        "chi l’amo bi l’iscrio fina in prosa.",
+        "Ma si li faghet una serenada",
+        "cun sa chiterra est un’àtera cosa,",
+        "cudda mùsica bella e cuncordada",
+        "ardente e adornante e pibiosa.",
+        "Eco ch’in coro che l’apo introdotu:",
+        "chena li narrer nudda naro totu."
+      ]
+    },
+    {
+      "id": 18,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "55”",
+      "versi": [
+        "Bae chi, Piras, no m’impressionas",
+        "e no nde tenzo nudda impressione.",
+        "Li naras bona tra totu sas bonas",
+        "e chi li as amore e passione",
+        "ma nara sa chiterra a-b-ite sonas",
+        "si non deves cantare una cantone?",
+        "Sonende sa chiterra si tratenet",
+        "però li cantat s’amore chi li tenet."
+      ]
+    },
+    {
+      "id": 19,
+      "poeta": "Masala",
+      "metrica": "Otada**",
+      "tempo": null,
+      "versi": []
+    },
+    {
+      "id": 20,
+      "poeta": "Piras",
+      "metrica": "Otada**",
+      "tempo": null,
+      "versi": []
+    },
+    {
+      "id": 21,
+      "poeta": "Mura",
+      "metrica": "Otada*",
+      "tempo": null,
+      "versi": [
+        "…………………….una sera",
+        "e issa ti cumprendet a sa mossa",
+        "Oe pro chi che siat in sa fossa",
+        "fat’at cantones de ogni manera",
+        "su ‘onolvesu Paulicu Mossa",
+        "cando at cantadu a Lindoro e Glicera:",
+        "poesias detadas cun talentos",
+        "e no giughiat perunos istrumentos."
+      ]
+    },
+    {
+      "id": 22,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "43”",
+      "versi": [
+        "Lassade istare sos poetas saldos",
+        "e aterue isterride su passu.",
+        "Mi chi unu cuadru de Picassu",
+        "cheren pagare bator milialdos.",
+        "De totu sos pitores contat Sassu",
+        "ub’at colores vìvos e caldos.",
+        "Oe che re in sa pitura imperat",
+        "e poete no b’at chi lu superat."
+      ]
+    },
+    {
+      "id": 23,
+      "poeta": "Piras",
+      "metrica": "Otada",
+      "tempo": "57”",
+      "versi": [
+        "(Ma)intende su piolu e su clarinu",
+        "e de sa genesi sa ‘oghe perfetta,",
+        "su pienu de unu bumbardinu",
+        "cun s’acutu picante ‘e sa corneta,",
+        "sos lamentos de unu violinu",
+        "chi de s’incantu raggiunghet sa meta.",
+        "E su sonu est de s’ànima su votu:",
+        "pius a prestu no lu cumprenden totu."
+      ]
+    },
+    {
+      "id": 24,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "58”",
+      "versi": [
+        "Ma pro me contat pagu su clarinu",
+        "magari no nde sia de mistieri.",
+        "Invece Dante su fiorentinu,",
+        "pro ‘ider bene sos ojos abberi,",
+        "at fatu ‘ider su Conte Ugolinu",
+        "papéndesi sa testa ‘e Ruggïeri.",
+        "E nd’at dipintu sos cuadros bellos",
+        "ma in manos non giughiat pinzello"
+      ]
+    },
+    {
+      "id": 25,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "41”",
+      "versi": [
+        "S’azis leggidu in su libru “Cüore”",
+        "bos azis ammentare ogni novella.",
+        "De Amicis comente iscritore",
+        "at isfogadu sa sua favella",
+        "e pensende a sa mama sua bella",
+        "at isclamadu: “S’essera pitore",
+        "pro l’aggiungher pius onore e fama",
+        "li diat fagher su cuadru a mama”."
+      ]
+    },
+    {
+      "id": 26,
+      "poeta": "Piras",
+      "metrica": "Otada",
+      "tempo": "53”",
+      "versi": [
+        "Ma deo a mama no l’apo connota",
+        "e no l’apo cantada ne dipinta.",
+        "Ma sa mùsica sempre s’est distinta",
+        "in afannu, dolore e in sa lota,",
+        "issa ’e tantas coronas si est ricinta:",
+        "sa paghe e-i sa gherra sonat tota.",
+        "Cosas medas chi……………….",
+        "ti paret intendinde sos cannones."
+      ]
+    },
+    {
+      "id": 27,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "55”",
+      "versi": [
+        "Ja es bellu su sonu ‘e sa trumbeta",
+        "e sa pitura ‘e Masala est vicina.",
+        "Sa poesia est terrena e divina",
+        "est sa chi prima at tocadu sa meta.",
+        "E Pascoli, famosu su poeta,",
+        "su chi cantadu at una cavallina:",
+        "s’ópera pagan in prétziu ‘e oro",
+        "prite de totus tocadu at su coro."
+      ]
+    },
+    {
+      "id": 28,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "43”",
+      "versi": [
+        "Cantare in poesia at su vantaggiu,",
+        "finas improvisare podes prontu.",
+        "Ma pensa, dogni tipu ‘e personaggiu",
+        "cun pitores non ponzas a cunfrontu",
+        "ca bi tenes in domo su tramontu,",
+        "s’aurora cun-d-unu paesaggiu",
+        "ch’abbellin sa capella e-i su muru",
+        "e no est a sonare unu tamburu."
+      ]
+    },
+    {
+      "id": 29,
+      "poeta": "Piras",
+      "metrica": "Otada",
+      "tempo": "53”",
+      "versi": [
+        "(Ma) Su tramontu cun s'alba indeorada",
+        "l'at fatu in chelu, mi', su Criadore.",
+        "B'est po natura e bisonzu no b'ada",
+        "mancu de lu pintare su pintore.",
+        "Ma nàrami: sa verdiana Traviada,",
+        "su Rigoletto cun su Trovadore",
+        "sun cosas de s'artista o goi o gai:",
+        "sa natura no l'at cantadu mai."
+      ]
+    },
+    {
+      "id": 30,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "55”",
+      "versi": [
+        "Totu cussas sun óperas de fama",
+        "bessidas da su grande campione.",
+        "Sa poesia a su fizu sa mama",
+        "bi la cantat pro consolatzione",
+        "e finas su pastore fatu ‘e s’ama",
+        "cantat a modu sou una cantone.",
+        "E finas s’ama si nde meravizat:",
+        "passat su tempus e no si nd’abbizat."
+      ]
+    },
+    {
+      "id": 31,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "37”",
+      "versi": [
+        "Ma su cuadru ’e sa creatzione",
+        "lu connoschides dae su pitore.",
+        "Animales bi nd’at unu masone,",
+        "no bi mancat su mannu e su minore,",
+        "a fiancu a sa tigre b’est s’anzone,",
+        "vicinu a sa colomba bi est s’astore",
+        "e su leone ‘e sa foresta re",
+        "totu los connoschides dae me."
+      ]
+    },
+    {
+      "id": 32,
+      "poeta": "Piras",
+      "metrica": "Otada",
+      "tempo": "54”",
+      "versi": [
+        "No, chi deo connosco sas columbas",
+        "cun sos astores chena los pintare.",
+        "Ma naran nachi deven arrivare",
+        "su die ‘e su giudisciu bator trumbas:",
+        "sos ànghelos sun postos po sonare,",
+        "a cussu sonu s’abberin sas tumbas.",
+        "Sa mùsica a sos bios dat cunfortos",
+        "e faghet puru risuger sos mortos."
+      ]
+    },
+    {
+      "id": 33,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "55”",
+      "versi": [
+        "Finamenta cuss’ópera est famada",
+        "e l’ischin in su mundu in generale.",
+        "Sa poética vena naturale",
+        "ch’est a diversas metas arrivada:",
+        "non sonat una banda musicale",
+        "si no b’est sa cantone preparada.",
+        "Sonas corneta e sonas su clarinu",
+        "però l’imparas léggìdu in latinu."
+      ]
+    },
+    {
+      "id": 34,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "43”",
+      "versi": [
+        "Cando s’abberit sa tumba profunda",
+        "est sa fine ’e su mundu e de sa vida.",
+        "Si sa pitura pro prima l’as bida",
+        "no la ponzas ne tertza ne sigunda",
+        "ca dipintu at sa bella Giocunda",
+        "tale e cuale comente est naschida.",
+        "E s’immortalat sa manu ecellente,",
+        "no la dipinghet nudda diferente."
+      ]
+    },
+    {
+      "id": 35,
+      "poeta": "Piras",
+      "metrica": "Otada",
+      "tempo": "51”",
+      "versi": [
+        "Ma deo sono ca so cumpatente,",
+        "imìto s’armonia ‘e s’oceànu.",
+        "No l’ischis chi unu melodianu",
+        "allegrat puru su coro ‘e sa zente:",
+        "nade, azis bidu mai un’indianu",
+        "chi ti faghet ballare unu serpente?",
+        "Poetas e pitores ja sun bonos",
+        "ma de fagher ballare no an donos."
+      ]
+    },
+    {
+      "id": 36,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "1’02”",
+      "versi": [
+        "Un’indianu at proas gai fatu,",
+        "ballat a da chi s’arpa l’at sonada.",
+        "Est su serpente a sa mùsica gratu:",
+        "s’est dogni fera areste ammasetada,",
+        "mentres ch’invece Tassu Torcuatu",
+        "cantat sa Gerusalemme Libberada",
+        "iscrita in rima e no est vanaglória",
+        "e li passan cuss’ópera a s’istória."
+      ]
+    },
+    {
+      "id": 37,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "41”",
+      "versi": [
+        "Cand’immortale lu faghes a Tassu",
+        "no t’ammentas chi morit vagabbundu.",
+        "Invece Giotto diventat un’assu:",
+        "passadu a primu est dae segundu",
+        "ca ti faghet su zero tundu-tundu",
+        "sentza jugher in manu su cumpassu.",
+        "Tota s’abbilidade manifestat",
+        "ca issu morit e s’ópera restat."
+      ]
+    },
+    {
+      "id": 38,
+      "poeta": "Piras",
+      "metrica": "Otada",
+      "tempo": "38”",
+      "versi": [
+        "Ma a bois che a mie no bos creo,",
+        "no sezis mancu meda ‘e calculare.",
+        "Si sa chiterra a sonare mi leo",
+        "sa signorina si lassat tocare",
+        "istat chieta cando sono deo,",
+        "in su ballu si lassat abbratzare.",
+        "Siat areste e bella cantumai",
+        "però po bois, mi’, no faghet gai."
+      ]
+    },
+    {
+      "id": 39,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "51”",
+      "versi": [
+        "Chi sias importante cunsidèro,",
+        "a tie s’avicinat una dea",
+        "a su manzanu comente su sero,",
+        "fetas sonada bella o puru fea.",
+        "Ma ja ischides cantu at fatu Omero",
+        "ch’at iscritu ‘e sos grecos s’odissea",
+        "e s’àteru Marone mantovanu,",
+        "su famosu poeta italianu."
+      ]
+    },
+    {
+      "id": 40,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "41”",
+      "versi": [
+        "Bianca e ruja coment’una mela",
+        "poto dipingher una signorina.",
+        "Sezis lontanos dae sa marina,",
+        "azis in domo marina cun vela",
+        "ca bo las fato ‘ider in sa tela:",
+        "regnat lontana, invece est vicina.",
+        "Piras, un’istrumentu musicale",
+        "sona ma no guastes sa morale."
+      ]
+    },
+    {
+      "id": 41,
+      "poeta": "Piras",
+      "metrica": "Otada",
+      "tempo": "37”",
+      "versi": [
+        "(Ma) Deo nde fato de ogni manera",
+        "ca no semus sa própia minestra.",
+        "Sa televisione cunsidèra:",
+        "osserva cando sonan un’orchestra,",
+        "sa ballerina in su video lestra",
+        "ja che ponet sos calches in s’aera.",
+        "Bois custu no l’azis fatu mai",
+        "ca no podides persuader gai."
+      ]
+    },
+    {
+      "id": 42,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "50”",
+      "versi": [
+        "Si sun bellos e sanos sos cuncetos",
+        "a-b-it’est ch’a su ‘entu los iscudes.",
+        "Però unu poeta lu saludes",
+        "ca jughet sabiore in intelletos:",
+        "s’as difetos ti cantat sos difetos,",
+        "s’as virtudes ti cantat sas virtudes.",
+        "Cun sa vena chi tenet, a bi crese,",
+        "ti faghet pius mannu ‘e su chi sese."
+      ]
+    },
+    {
+      "id": 43,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "42”",
+      "versi": [
+        "Cando b’at una mustra ‘e pitore",
+        "màssimu mastros si sun e valentes",
+        "acudin sos chi sunu cumpetentes",
+        "chi sun isceltos e ammiradores",
+        "da poi sos mazores oferentes",
+        "e si distinghen sos bravos signores",
+        "chi sos cuadros che tenen in coro:",
+        "los dian cherrer totu in dom’insoro."
+      ]
+    },
+    {
+      "id": 44,
+      "poeta": "Piras",
+      "metrica": "Otada",
+      "tempo": "47”",
+      "versi": [
+        "(Ma) A bois già bos lasso a una perra,",
+        "poeta póveru e pitore mischinu.",
+        "A mie su soldadu andende a gherra,",
+        "l’infundo su coraggiu intro su sinu.",
+        "Nade prite sos res de Inghilterra",
+        "incoronan a sonu ‘e tumbarinu.",
+        "Solu deo ‘e sonare apo permissu:",
+        "no cheren ne a tie ne a issu."
+      ]
+    },
+    {
+      "id": 45,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "53”",
+      "versi": [
+        "Su tumbarinu in sa corte reale",
+        "sonat, paret sonende una campana.",
+        "Però sa poesia est naturale",
+        "e no est in-d-ogni persone umana.",
+        "Sanremo faghet unu festivale",
+        "e-d-est de sa cantone italiana:",
+        "daen su prémiu a su cantatore,",
+        "s’onore mannu a su compositore."
+      ]
+    },
+    {
+      "id": 46,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "42”",
+      "versi": [
+        "Cando mischinu mi naras, Remundu,",
+        "mi meraviglio puit’est a nou.",
+        "Ma no m’importat su tamburu tou",
+        "s’unu re incoronan in su mundu.",
+        "S’arantzu lu dipingo tundu-tundu",
+        "e su limone a forma ‘e ou.",
+        "Finas tue pro l”ider ti nd’ispantas:",
+        "paren veros sos frutos e piantas."
+      ]
+    },
+    {
+      "id": 47,
+      "poeta": "Piras",
+      "metrica": "Otada",
+      "tempo": "41”",
+      "versi": [
+        "(Ma) S’arantzu, su limone b’est seguru,",
+        "e ja b’est chena lu dipingher tue.",
+        "Deo fato coraggiu si so duru",
+        "e paura si sono mue-mue.",
+        "Su soldadu andat a sonu ‘e tamburu",
+        "ca cun sos colpos narat: unu-due.",
+        "Sa manera ‘e andare nde li leo",
+        "e caminat comente sono deo."
+      ]
+    },
+    {
+      "id": 48,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "48”",
+      "versi": [
+        "Tue ti leas s’istrumentu in manu",
+        "e faghes sonu tristu e amorosu.",
+        "Tue cun su pinzellu coidosu",
+        "pares a sero che a su manzanu",
+        "ma Gofredo Mameli su famosu,",
+        "su ch’at fatu s’Innu italianu",
+        "ca fit poeta l’at cumpostu cue",
+        "e-i su ch’at fat’issu sonas tue."
+      ]
+    },
+    {
+      "id": 49,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "40”",
+      "versi": [
+        "Tue in manu su tamburu aferra",
+        "ca de sonare, Remundu, as su antu.",
+        "Ma a sa mama su fizu est mort’in gherra",
+        "e che lu tenet in su campusantu:",
+        "su cuadru est in domo ancor’in terra",
+        "e un’ojada li dat d-ogni tantu.",
+        "Mancari sepultadu, in cuss’ora",
+        "li paret de lu ‘ider biu ancora."
+      ]
+    },
+    {
+      "id": 50,
+      "poeta": "Piras",
+      "metrica": "Otada",
+      "tempo": "48”",
+      "versi": [
+        "(Ma) Da chi l”idet ja torrat a penare",
+        "ca at su ritratu ‘e su dolore idóniu.",
+        "Abbaidade, sonan in s’altare",
+        "una missa si faghen matrimóniu:",
+        "totucantos si ponen a pregare",
+        "ma da sa missa no manchet s’armóniu.",
+        "Ca paret nende una bona novella,",
+        "finamentas sa missa est pius bella."
+      ]
+    },
+    {
+      "id": 51,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "52”",
+      "versi": [
+        "Tzeltu sa missa ch’essit pius completa",
+        "cando sonan s’armóniu festale.",
+        "Ma chie at poesia naturale",
+        "partit da s’a, ch’arrivit a sa zeta",
+        "e-i su ch’est iscritu in su missale",
+        "est dae s’intelletu ‘e su poeta.",
+        "E su preìde lu legget igue:",
+        "no m’as a narrer chi l’as fatu tue."
+      ]
+    },
+    {
+      "id": 52,
+      "poeta": "Masala",
+      "metrica": "Otada",
+      "tempo": "41”",
+      "versi": [
+        "Faghide s’argumentu terminadu",
+        "innanti chi diventet neniosa.",
+        "Però in-d-una cheja ispatziosa",
+        "bidides dogni muru tapetzadu",
+        "ube de Gesu Cristu cundennadu",
+        "b’at una via crucis dolorosa.",
+        "Pro chi est mortu e no ch’est in cust’ala",
+        "l”ides ancora cun sa rughe a pala."
+      ]
+    },
+    {
+      "id": 53,
+      "poeta": "Piras",
+      "metrica": "Otada",
+      "tempo": "55”",
+      "versi": [
+        "Tando finimos custa cantilena",
+        "si su mamentu giustu est arrivadu.",
+        "Abbaidade de Ulisse s’iscena",
+        "cando s’est in s’océanu agatadu:",
+        "po no intender su sonu ‘e sa sirena",
+        "sas orijas a pighe si at tapadu",
+        "ca s’armonia est tropu commovente",
+        "chi cussu sonu ammàchiat sa zente."
+      ]
+    },
+    {
+      "id": 54,
+      "poeta": "Mura",
+      "metrica": "Otada",
+      "tempo": "46”",
+      "versi": [
+        "S’an ordinadu a fagher chiusura",
+        "de custu tema serramus su motu.",
+        "Ma totos tres sun donos de natura",
+        "e unu che-i s’àteru est dotu.",
+        "Meritat elogiada sa pitura,",
+        "mùsica e poesia gai etotu:",
+        "paret ch’apan che pare sa fortuna,",
+        "no bido diferéntzia peruna."
+      ]
+    }
+  ]
+}
